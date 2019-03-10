@@ -1,0 +1,39 @@
+body{
+    margin: 0px auto;
+    width: 970px;
+}
+
+#menu{
+    margin-top: 20px;
+    width: 970px;
+    vertical-align: top;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+div.ex1 {
+    background-color: rgb(210, 239, 248);
+    width: 600px;
+    height: 500px;
+    overflow: scroll;
+    margin: 0px auto;
+  }
+  #rightbox{
+      width: 100px;
+  }
+  #leftbox{
+    width: 495px;
+}
+  img{
+      width: 100px;
+      border: rgb(128, 0, 100);
+  }
+
+  table, th, td {
+    border: 1px solid rgb(8, 230, 82);
+    border-collapse: collapse;
+    display: inline-block;
+  }

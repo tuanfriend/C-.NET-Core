@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\HungryNinja\bin\Debug\netcoreapp2.1\HungryNinja.deps.json
+D:\DOJO\CSharp\HungryNinja\bin\Debug\netcoreapp2.1\HungryNinja.runtimeconfig.json
+D:\DOJO\CSharp\HungryNinja\bin\Debug\netcoreapp2.1\HungryNinja.runtimeconfig.dev.json
+D:\DOJO\CSharp\HungryNinja\bin\Debug\netcoreapp2.1\HungryNinja.dll
+D:\DOJO\CSharp\HungryNinja\bin\Debug\netcoreapp2.1\HungryNinja.pdb
+D:\DOJO\CSharp\HungryNinja\obj\Debug\netcoreapp2.1\HungryNinja.csprojAssemblyReference.cache
+D:\DOJO\CSharp\HungryNinja\obj\Debug\netcoreapp2.1\HungryNinja.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\HungryNinja\obj\Debug\netcoreapp2.1\HungryNinja.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\HungryNinja\obj\Debug\netcoreapp2.1\HungryNinja.AssemblyInfo.cs
+D:\DOJO\CSharp\HungryNinja\obj\Debug\netcoreapp2.1\HungryNinja.dll
+D:\DOJO\CSharp\HungryNinja\obj\Debug\netcoreapp2.1\HungryNinja.pdb

@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\Fundaments1\bin\Debug\netcoreapp2.1\Fundaments1.deps.json
+D:\DOJO\CSharp\Fundaments1\bin\Debug\netcoreapp2.1\Fundaments1.runtimeconfig.json
+D:\DOJO\CSharp\Fundaments1\bin\Debug\netcoreapp2.1\Fundaments1.runtimeconfig.dev.json
+D:\DOJO\CSharp\Fundaments1\bin\Debug\netcoreapp2.1\Fundaments1.dll
+D:\DOJO\CSharp\Fundaments1\bin\Debug\netcoreapp2.1\Fundaments1.pdb
+D:\DOJO\CSharp\Fundaments1\obj\Debug\netcoreapp2.1\Fundaments1.csprojAssemblyReference.cache
+D:\DOJO\CSharp\Fundaments1\obj\Debug\netcoreapp2.1\Fundaments1.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\Fundaments1\obj\Debug\netcoreapp2.1\Fundaments1.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\Fundaments1\obj\Debug\netcoreapp2.1\Fundaments1.AssemblyInfo.cs
+D:\DOJO\CSharp\Fundaments1\obj\Debug\netcoreapp2.1\Fundaments1.dll
+D:\DOJO\CSharp\Fundaments1\obj\Debug\netcoreapp2.1\Fundaments1.pdb

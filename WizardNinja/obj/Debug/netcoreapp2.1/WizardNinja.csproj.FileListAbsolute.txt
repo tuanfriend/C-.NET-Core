@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\WizardNinja\bin\Debug\netcoreapp2.1\WizardNinja.deps.json
+D:\DOJO\CSharp\WizardNinja\bin\Debug\netcoreapp2.1\WizardNinja.runtimeconfig.json
+D:\DOJO\CSharp\WizardNinja\bin\Debug\netcoreapp2.1\WizardNinja.runtimeconfig.dev.json
+D:\DOJO\CSharp\WizardNinja\bin\Debug\netcoreapp2.1\WizardNinja.dll
+D:\DOJO\CSharp\WizardNinja\bin\Debug\netcoreapp2.1\WizardNinja.pdb
+D:\DOJO\CSharp\WizardNinja\obj\Debug\netcoreapp2.1\WizardNinja.csprojAssemblyReference.cache
+D:\DOJO\CSharp\WizardNinja\obj\Debug\netcoreapp2.1\WizardNinja.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\WizardNinja\obj\Debug\netcoreapp2.1\WizardNinja.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\WizardNinja\obj\Debug\netcoreapp2.1\WizardNinja.AssemblyInfo.cs
+D:\DOJO\CSharp\WizardNinja\obj\Debug\netcoreapp2.1\WizardNinja.dll
+D:\DOJO\CSharp\WizardNinja\obj\Debug\netcoreapp2.1\WizardNinja.pdb

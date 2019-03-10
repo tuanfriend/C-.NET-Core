@@ -1,0 +1,14 @@
+D:\DOJO\CSharp\PortfolioRoute\bin\Debug\netcoreapp2.1\PortfolioRoute.deps.json
+D:\DOJO\CSharp\PortfolioRoute\bin\Debug\netcoreapp2.1\PortfolioRoute.runtimeconfig.json
+D:\DOJO\CSharp\PortfolioRoute\bin\Debug\netcoreapp2.1\PortfolioRoute.runtimeconfig.dev.json
+D:\DOJO\CSharp\PortfolioRoute\bin\Debug\netcoreapp2.1\PortfolioRoute.dll
+D:\DOJO\CSharp\PortfolioRoute\bin\Debug\netcoreapp2.1\PortfolioRoute.pdb
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.csprojAssemblyReference.cache
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.RazorAssemblyInfo.cache
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.RazorAssemblyInfo.cs
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.AssemblyInfo.cs
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.RazorTargetAssemblyInfo.cache
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.dll
+D:\DOJO\CSharp\PortfolioRoute\obj\Debug\netcoreapp2.1\PortfolioRoute.pdb

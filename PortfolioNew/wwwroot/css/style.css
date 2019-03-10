@@ -1,0 +1,27 @@
+body{
+    margin: 0px auto;
+    width: 970px;
+}
+
+#menu{
+    margin-top: 20px;
+    width: 970px;
+    vertical-align: top;
+    text-align: center;
+}
+
+#left,#right{
+    width: 483px;
+    display: inline-block;
+    vertical-align: top;
+}
+h2{
+    text-align: center;
+    width: 970px;
+}
+#left{
+    text-align: center;
+}
+img{
+    width: 200px;
+}

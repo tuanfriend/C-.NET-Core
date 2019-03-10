@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\collect\bin\Debug\netcoreapp2.1\collect.deps.json
+D:\DOJO\CSharp\collect\bin\Debug\netcoreapp2.1\collect.runtimeconfig.json
+D:\DOJO\CSharp\collect\bin\Debug\netcoreapp2.1\collect.runtimeconfig.dev.json
+D:\DOJO\CSharp\collect\bin\Debug\netcoreapp2.1\collect.dll
+D:\DOJO\CSharp\collect\bin\Debug\netcoreapp2.1\collect.pdb
+D:\DOJO\CSharp\collect\obj\Debug\netcoreapp2.1\collect.csprojAssemblyReference.cache
+D:\DOJO\CSharp\collect\obj\Debug\netcoreapp2.1\collect.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\collect\obj\Debug\netcoreapp2.1\collect.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\collect\obj\Debug\netcoreapp2.1\collect.AssemblyInfo.cs
+D:\DOJO\CSharp\collect\obj\Debug\netcoreapp2.1\collect.dll
+D:\DOJO\CSharp\collect\obj\Debug\netcoreapp2.1\collect.pdb

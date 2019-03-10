@@ -1,0 +1,28 @@
+body{
+    width: 870px;
+    margin: 0px auto;
+    border: 1px solid rgb(17, 14, 14);
+    height: 500px;
+    padding: 20px;
+    
+}
+textarea{
+    width: 500px;
+    height: 100px;
+}
+table{
+    width: 600px;
+    margin: 0px auto;
+}
+#bt{
+    float: right;
+    margin-right: 94px;
+}
+td{
+    width: 30px;
+}
+form{
+    margin: 0px auto;
+    width: 600px;
+    
+}

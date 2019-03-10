@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\unboxing\bin\Debug\netcoreapp2.1\unboxing.deps.json
+D:\DOJO\CSharp\unboxing\bin\Debug\netcoreapp2.1\unboxing.runtimeconfig.json
+D:\DOJO\CSharp\unboxing\bin\Debug\netcoreapp2.1\unboxing.runtimeconfig.dev.json
+D:\DOJO\CSharp\unboxing\bin\Debug\netcoreapp2.1\unboxing.dll
+D:\DOJO\CSharp\unboxing\bin\Debug\netcoreapp2.1\unboxing.pdb
+D:\DOJO\CSharp\unboxing\obj\Debug\netcoreapp2.1\unboxing.csprojAssemblyReference.cache
+D:\DOJO\CSharp\unboxing\obj\Debug\netcoreapp2.1\unboxing.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\unboxing\obj\Debug\netcoreapp2.1\unboxing.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\unboxing\obj\Debug\netcoreapp2.1\unboxing.AssemblyInfo.cs
+D:\DOJO\CSharp\unboxing\obj\Debug\netcoreapp2.1\unboxing.dll
+D:\DOJO\CSharp\unboxing\obj\Debug\netcoreapp2.1\unboxing.pdb

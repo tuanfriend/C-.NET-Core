@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\testarray\bin\Debug\netcoreapp2.1\testarray.deps.json
+D:\DOJO\CSharp\testarray\bin\Debug\netcoreapp2.1\testarray.runtimeconfig.json
+D:\DOJO\CSharp\testarray\bin\Debug\netcoreapp2.1\testarray.runtimeconfig.dev.json
+D:\DOJO\CSharp\testarray\bin\Debug\netcoreapp2.1\testarray.dll
+D:\DOJO\CSharp\testarray\bin\Debug\netcoreapp2.1\testarray.pdb
+D:\DOJO\CSharp\testarray\obj\Debug\netcoreapp2.1\testarray.csprojAssemblyReference.cache
+D:\DOJO\CSharp\testarray\obj\Debug\netcoreapp2.1\testarray.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\testarray\obj\Debug\netcoreapp2.1\testarray.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\testarray\obj\Debug\netcoreapp2.1\testarray.AssemblyInfo.cs
+D:\DOJO\CSharp\testarray\obj\Debug\netcoreapp2.1\testarray.dll
+D:\DOJO\CSharp\testarray\obj\Debug\netcoreapp2.1\testarray.pdb

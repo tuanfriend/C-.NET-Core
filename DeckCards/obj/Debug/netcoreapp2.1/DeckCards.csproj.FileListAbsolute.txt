@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\DeckCards\bin\Debug\netcoreapp2.1\DeckCards.deps.json
+D:\DOJO\CSharp\DeckCards\bin\Debug\netcoreapp2.1\DeckCards.runtimeconfig.json
+D:\DOJO\CSharp\DeckCards\bin\Debug\netcoreapp2.1\DeckCards.runtimeconfig.dev.json
+D:\DOJO\CSharp\DeckCards\bin\Debug\netcoreapp2.1\DeckCards.dll
+D:\DOJO\CSharp\DeckCards\bin\Debug\netcoreapp2.1\DeckCards.pdb
+D:\DOJO\CSharp\DeckCards\obj\Debug\netcoreapp2.1\DeckCards.csprojAssemblyReference.cache
+D:\DOJO\CSharp\DeckCards\obj\Debug\netcoreapp2.1\DeckCards.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\DeckCards\obj\Debug\netcoreapp2.1\DeckCards.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\DeckCards\obj\Debug\netcoreapp2.1\DeckCards.AssemblyInfo.cs
+D:\DOJO\CSharp\DeckCards\obj\Debug\netcoreapp2.1\DeckCards.dll
+D:\DOJO\CSharp\DeckCards\obj\Debug\netcoreapp2.1\DeckCards.pdb

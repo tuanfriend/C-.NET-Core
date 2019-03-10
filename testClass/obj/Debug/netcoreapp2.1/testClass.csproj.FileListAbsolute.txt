@@ -1,0 +1,11 @@
+D:\DOJO\CSharp\testClass\bin\Debug\netcoreapp2.1\testClass.deps.json
+D:\DOJO\CSharp\testClass\bin\Debug\netcoreapp2.1\testClass.runtimeconfig.json
+D:\DOJO\CSharp\testClass\bin\Debug\netcoreapp2.1\testClass.runtimeconfig.dev.json
+D:\DOJO\CSharp\testClass\bin\Debug\netcoreapp2.1\testClass.dll
+D:\DOJO\CSharp\testClass\bin\Debug\netcoreapp2.1\testClass.pdb
+D:\DOJO\CSharp\testClass\obj\Debug\netcoreapp2.1\testClass.csprojAssemblyReference.cache
+D:\DOJO\CSharp\testClass\obj\Debug\netcoreapp2.1\testClass.csproj.CoreCompileInputs.cache
+D:\DOJO\CSharp\testClass\obj\Debug\netcoreapp2.1\testClass.AssemblyInfoInputs.cache
+D:\DOJO\CSharp\testClass\obj\Debug\netcoreapp2.1\testClass.AssemblyInfo.cs
+D:\DOJO\CSharp\testClass\obj\Debug\netcoreapp2.1\testClass.dll
+D:\DOJO\CSharp\testClass\obj\Debug\netcoreapp2.1\testClass.pdb

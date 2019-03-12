@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Dojo Survey</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+</head>
+
+<body>
+    @model Survey
+    <h1>Survey</h1>
+    <form asp-action="submit" asp-controller="Home" method="post">
+        <span asp-validation-for="name"></span><br>
+        <span asp-validation-for="local"></span><br>
+        <span asp-validation-for="lang"></span><br>
+        <span asp-validation-for="cm"></span><br>
+
+        <table>
+            <tr>
+              <td>Your Name:</td>
+              <td><input type="text" asp-for="name"></td>
+            </tr>
+            <tr>
+                <td>Dojo Location:</td>
+                <td><select asp-for="local" style="width: 173px">
+                    <option value="Chicago">Chicago</option>
+                    <option value="Seattle">Seattle</option>
+                    <option value="San Jose">San Jose</option>
+                    <option value="Texas">Texas</option>
+                  </select></td>
+            </tr>
+            <tr>
+                <td>Favourite Language:</td>
+                <td><select asp-for="lang" style="width: 173px">
+                    <option value="Python">Python</option>
+                    <option value="Mean">Mean</option>
+                    <option value="C Sharp">C Sharp</option>
+                    <option value="HTML 5">HTML 5</option>
+                  </select></td>
+            </tr>
+          </table>
+          Comment (Optional):<br>
+            <textarea asp-for="cm"></textarea><br>
+        <input id="bt" type="submit" value="Submit">
+    </form>
+</body>
+
+</html>

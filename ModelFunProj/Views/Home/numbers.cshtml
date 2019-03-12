@@ -1,0 +1,8 @@
+@using ModelFunProj.Models
+@model List<Number>
+
+<h1>Here are some numbers!</h1>
+@foreach(var a in Model)
+{
+    <p>@a.num</p>
+}

@@ -1,0 +1,33 @@
+@model DsurveyProj.Models.Survey
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Result</title>
+</head>
+<body>
+    <h1>Submmited Info</h1>
+    <table>
+        <tr>
+          <td>Name:</td>
+          <td>@Model.name</td>
+        </tr>
+        <tr>
+            <td>Dojo Location:</td>
+            <td>@Model.local</td>
+          </tr>
+          <tr>
+            <td>Favourite Language:</td>
+            <td>@Model.lang</td>
+          </tr>
+          <tr>
+            <td>Comment:</td>
+            <td>@Model.cm</td>
+          </tr>
+      </table>
+      <a href="/"><button>Go Back!</button></a>
+</body>
+</html>

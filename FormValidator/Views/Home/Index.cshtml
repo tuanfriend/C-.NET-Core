@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form Validator Input</title>
+</head>
+<body>
+    @model User
+    <form asp-action="Create" asp-controller="Home" method="post">
+        <span asp-validation-for="Fname"></span>
+        <label asp-for="Fname">First Name:</label>
+        <input asp-for="Fname">
+
+        <span asp-validation-for="Lname"></span>
+        <label asp-for="Lname">Last Name:</label>
+        <input asp-for="Lname">
+
+        <span asp-validation-for="Age"></span>
+        <label asp-for="Age">Age:</label>
+        <input asp-for="Age">
+        
+        <span asp-validation-for="Email"></span>
+        <label asp-for="Email">Email:</label>
+        <input asp-for="Email">
+
+        <span asp-validation-for="Password"></span>
+        <label asp-for="Password">Password:</label>
+        <input asp-for="Password">
+        <input value="Add User" type="submit">
+    </form>
+</body>
+</html>

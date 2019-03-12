@@ -8,12 +8,6 @@ namespace DojoSurvey
             return View("index");
         }
 
-        // [HttpGet("result")]
-        // public IActionResult resultForm(){
-        //     return View("result");
-        // }
-        //string name, string location, string lang, string cm
-
 
 //This's working too, we have 2 ways to do
         // [HttpPost("submit")]

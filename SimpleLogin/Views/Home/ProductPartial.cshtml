@@ -1,0 +1,14 @@
+@model Product
+<form action="/create/product" method="post">
+    <div class="form-group">
+        <span asp-validation-for="ProductName"></span>
+        <label asp-for="ProductName"></label>
+        <input asp-for="ProductName">
+    </div>
+    <div class="form-group">
+        <span asp-validation-forcopy="Price"></span>
+        <label asp-for="Price"></label>
+        <input asp-for="Price">
+    </div>
+    <input type="submit" value="Add Product">
+</form>   

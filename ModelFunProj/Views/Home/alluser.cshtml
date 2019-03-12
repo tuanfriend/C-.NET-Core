@@ -1,0 +1,8 @@
+@using ModelFunProj.Models
+@model List<User>
+
+        <h1>Here are some Users!</h1>
+        @foreach(var each in Model)
+        {
+            <p>@each.Firstname</p>
+        }

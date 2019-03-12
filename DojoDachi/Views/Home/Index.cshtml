@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dojo Dachi Game</title>
+    <style>
+        body {
+            width: 800px;
+            margin: 0px auto;
+        }
+
+        ul,
+        li {
+            display: inline-block;
+            padding: 5px;
+            margin: 0px auto;
+            margin-left: 32px;
+        }
+
+        #content {
+            text-align: center;
+            border: 1px solid rgb(48, 3, 3);
+            width: 600px;
+            height: 400px;
+            ;
+        }
+        #content img{
+            padding: 50px 30px;
+        }
+    </style>
+</head>
+
+<body>
+    @using DojoDachi.Models
+    @model Pet
+    <div>
+        <ul>
+            <li>Fullness: @ViewBag.Fullness</li>
+            <li>Happniess: @ViewBag.Happiness</li>
+            <li>Meals: @ViewBag.Meals</li>
+            <li>Energy: @ViewBag.Energy</li>
+        </ul>
+    </div>
+    <div id="content">
+        <img src="~/images/pet.gif"><br>
+        <a>@ViewBag.text</a>
+    </div>
+    <br>
+    @if(@ViewBag.button != null){
+        @Html.Raw(ViewBag.button)
+    }else{
+    <a href="/feed"><button>Feed</button></a>
+    <a href="/play"><button>Play</button></a>
+    <a href="/work"><button>Work</button></a>
+    <a href="/sleep"><button>Sleep</button></a>
+    <a href="/test"><button>Test 100</button></a>
+    }
+
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Quote Dash</title>
+</head>
+<body>
+    <h1>Here are the awesome quotes!</h1>
+    @foreach(var quote in ViewBag.Quotes)
+{
+    <p>"@quote["content"]"</p>
+    <p>- @quote["name"] at @quote["created_at"]</p>
+    <hr>
+}
+
+</body>
+</html>

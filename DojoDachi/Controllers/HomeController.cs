@@ -25,15 +25,11 @@ namespace DojoDachi.Controllers
             }
             else
             {
-
-
                 if (HttpContext.Session.GetInt32("Fullness") >= 100 && HttpContext.Session.GetInt32("Happiness") >= 100 && HttpContext.Session.GetInt32("Energy") >= 100)
                 {
                     HttpContext.Session.SetString("text", "Congratulation, You Won!!!!");
                     ViewBag.button = "<a href='/reset'><button>Reset</button></a>";
                 }
-
-
             }
 
             ViewBag.Fullness = HttpContext.Session.GetInt32("Fullness");
